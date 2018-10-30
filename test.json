@@ -1,5 +1,6 @@
 {
     "platform": [{
+            "name": "Windows",
             "number": "001",
             "title_s": "Sinhalese",
             "title_e": "English",
