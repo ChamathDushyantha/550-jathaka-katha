@@ -1,6 +1,7 @@
 [{
 		"name": "Apannaka jathaka",
-		"image": "http://beyomon.com/images/550/1.jpg",
+		"nameSinhala": "අපණ්ණක ජාතකය",
+		"image": "http://beyomon.com/images/550/1.pg",
 		"storyNumber": "001",
 		"category": "Wisdom",
 		"thumb": "http://beyomon.com/images/550/1_t.jpg",
@@ -8,6 +9,7 @@
 	},
 	{
 		"name": "Vannupatha jathaka",
+		"nameSinhala": "වණ්ණුපත ජාතකය",
 		"image": "http://beyomon.com/images/550/2.jpg",
 		"storyNumber": "002",
 		"category": "Courage",
@@ -16,6 +18,7 @@
 	},
 	{
 		"name": "Serivanija jathaka",
+		"nameSinhala": "සේරිවාණිජ ජාතකය",
 		"image": "http://beyomon.com/images/550/3.jpg",
 		"storyNumber": "003",
 		"category": "Kindness",
@@ -24,6 +27,7 @@
 	},
 	{
 		"name": "Devadharma jathaka",
+		"nameSinhala": "දේවධර්ම ජාතකය",
 		"image": "http://beyomon.com/images/550/6.jpg",
 		"storyNumber": "006",
 		"category": "Good Friendliness",
@@ -32,6 +36,7 @@
 	},
 	{
 		"name": "Makhadeva jathaka",
+		"nameSinhala": " මඛාදේව ජාතකය",
 		"image": "http://beyomon.com/images/550/9.jpg",
 		"storyNumber": "009",
 		"category": "Virtue",
@@ -40,6 +45,7 @@
 	},
 	{
 		"name": "Sukha vihari jathaka",
+		"nameSinhala": "සුඛ විහාරි ජාතකය",
 		"image": "http://beyomon.com/images/550/10.jpg",
 		"storyNumber": "010",
 		"category": "Virtue",
@@ -48,6 +54,7 @@
 	},
 	{
 		"name": "Ayachitha bhaktha jathaka",
+		"nameSinhala": " අයාචිත භක්ත ජාතකය",
 		"image": "http://beyomon.com/images/550/13.jpg",
 		"storyNumber": "013",
 		"category": "Eco-friendliness",
@@ -56,6 +63,7 @@
 	},
 	{
 		"name": "Kandina jathaka",
+		"nameSinhala": "කණ්ඩින ජාතකය",
 		"image": "http://beyomon.com/images/550/17.jpg",
 		"storyNumber": "017",
 		"category": "Eco-friendliness",
@@ -64,6 +72,7 @@
 	},
 	{
 		"name": "Nalapana jathaka",
+		"nameSinhala": "නලපාන ජාතකය",
 		"image": "http://beyomon.com/images/550/22.jpg",
 		"storyNumber": "022",
 		"category": "Wisdom",
@@ -72,6 +81,7 @@
 	},
 	{
 		"name": "Kulavaka jathaka",
+		"nameSinhala": "කුලාවක ජාතකය",
 		"image": "http://beyomon.com/images/550/31.jpg",
 		"storyNumber": "031",
 		"category": "Good Friendliness",
@@ -80,6 +90,7 @@
 	},
 	{
 		"name": "Vattaka jathaka",
+		"nameSinhala": "වට්ටක ජාතකය",
 		"image": "http://beyomon.com/images/550/35.jpg",
 		"storyNumber": "035",
 		"category": "Courage",
@@ -88,6 +99,7 @@
 	},
 	{
 		"name": "Thiththira jathaka",
+		"nameSinhala": "තිත්තිර ජාතකය",
 		"image": "http://beyomon.com/images/550/37.jpg",
 		"storyNumber": "037",
 		"category": "Charity",
@@ -96,6 +108,7 @@
 	},
 	{
 		"name": "Bheemasena jathaka",
+		"nameSinhala": "භීමසෙන ජාතකය",
 		"image": "http://beyomon.com/images/550/81.jpg",
 		"storyNumber": "081",
 		"category": "Kindness",
